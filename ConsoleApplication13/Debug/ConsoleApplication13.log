@@ -1,0 +1,4 @@
+﻿  ConsoleApplication13.cpp
+c:\users\micheal\source\repos\consoleapplication13\consoleapplication13\consoleapplication13.cpp(45): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\micheal\source\repos\consoleapplication13\consoleapplication13\consoleapplication13.cpp(52): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication13.vcxproj -> C:\Users\Micheal\source\repos\ConsoleApplication13\Debug\ConsoleApplication13.exe
